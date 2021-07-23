@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+}
+
+#left-column{
+    width: 60%;
+    float: left;
+    background-color: rgb(247, 255, 170);
+}
+
+
+#right-column img{
+    width: 230px;
+    margin-left: 120px;
+    margin-top: 100px;
+}
